@@ -1,0 +1,32 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Wood_Cherry_Original
+Ka 0.000000 0.000000 0.000000
+Kd 0.592157 0.337255 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd Escenario 1 - Comedor/Wood_Cherry_Original.jpg
+
+newmtl b113_BS
+Ka 0.000000 0.000000 0.000000
+Kd 0.662745 0.549020 0.450980
+Ks 0.330000 0.330000 0.330000
+map_Kd Escenario 1 - Comedor/b113_BS.jpg
+
+newmtl Steel_Brushed_Stainless
+Ka 0.000000 0.000000 0.000000
+Kd 0.713725 0.733333 0.745098
+Ks 0.330000 0.330000 0.330000
+map_Kd Escenario 1 - Comedor/Steel_Brushed_Stainless.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl M_0043_SaddleBrown
+Ka 0.000000 0.000000 0.000000
+Kd 0.545098 0.270588 0.074510
+Ks 0.330000 0.330000 0.330000
+

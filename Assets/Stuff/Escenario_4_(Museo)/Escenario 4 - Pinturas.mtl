@@ -1,0 +1,27 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl _auto_3
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl _14
+Ka 0.000000 0.000000 0.000000
+Kd 0.349020 0.227451 0.125490
+Ks 0.330000 0.330000 0.330000
+map_Kd Escenario 4 - Pinturas/_14.jpg
+
+newmtl _13
+Ka 0.000000 0.000000 0.000000
+Kd 0.266667 0.184314 0.109804
+Ks 0.330000 0.330000 0.330000
+map_Kd Escenario 4 - Pinturas/_13.jpg
+
+newmtl _auto_5
+Ka 0.000000 0.000000 0.000000
+Kd 0.341176 0.282353 0.156863
+Ks 0.330000 0.330000 0.330000
+map_Kd Escenario 4 - Pinturas/_auto_5.jpg
+
