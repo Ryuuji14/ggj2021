@@ -38,7 +38,7 @@ public class UniverseController : MonoBehaviour
 
 	void Awake()
 	{
-		SceneManager.LoadScene(1, LoadSceneMode.Additive);
+		//SceneManager.LoadScene(1, LoadSceneMode.Additive);
 		_audio = GetComponent<AudioSource>();
 	}
 

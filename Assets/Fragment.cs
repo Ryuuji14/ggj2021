@@ -42,7 +42,7 @@ public class Fragment : MonoBehaviour
 
 
 
-            Debug.Log("Ganaste!! :)");
+            //Debug.Log("Ganaste!! :)");
             SceneManager.LoadScene(2);
             //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
             /*GameObject[] fireworks = GameObject.FindGameObjectsWithTag ("Firework");
